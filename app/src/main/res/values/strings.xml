@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SignInApplication</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_password">Password</string>
+    <string name="action_sign_in">Sign In</string>
+    <string name="message_sign_in_success">Sign in success</string>
+    <string name="message_unknown_error">Unknown error</string>
+    <string name="invalid_input">Invalid email or password</string>
+</resources>
